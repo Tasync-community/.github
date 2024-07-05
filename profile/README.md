@@ -1,6 +1,8 @@
 ## Hi there 👋
 ![Logo with text](https://github.com/Tasync-community/.github/assets/68767143/90f9a42b-c299-46cf-8e3a-91275e29f141)
 
+![Banner](https://github.com/Tasync-community/.github/assets/68767143/269f0b01-e00d-40cb-8211-55287a1ee73c)
+
 <!--
 
 **Here are some ideas to get you started:**
